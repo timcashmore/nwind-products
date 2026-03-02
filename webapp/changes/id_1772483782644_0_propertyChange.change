@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1772483782644_0_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "productsnwind",
+    "packageName": "",
+    "content": {
+        "property": "liveMode",
+        "newValue": true
+    },
+    "selector": {
+        "id": "productsnwind::sap.suite.ui.generic.template.ListReport.view.ListReport::Products--listReportFilter",
+        "idIsLocal": false,
+        "type": "sap.ui.comp.smartfilterbar.SmartFilterBar"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/productsnwind/changes/",
+    "projectId": "",
+    "creation": 1772483782644,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "1.145.0",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
