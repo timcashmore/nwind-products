@@ -3,10 +3,10 @@
   "authenticationMethod": "route",
   "routes": [
     {
-      "source": "^/sap/(.*)$",
-      "target": "/sap/$1",
+      "source": "^/northwind/(.*)$",
+      "target": "/northwind/$1",
       "destination": "NWIND",
-      "authenticationType": "xsuaa",
+      "authenticationType": "none",
       "csrfProtection": false
     },
     {
